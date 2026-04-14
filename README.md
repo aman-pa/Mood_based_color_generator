@@ -10,6 +10,7 @@ Displays a message
 HTML
 CSS
 JavaScript
-▶️ Run
 
-Open index.html in your browser.
+
+🌐 Live Demo
+https://aman-pa.github.io/Mood_based_color_generator/
