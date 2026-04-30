@@ -1,4 +1,4 @@
-Mood Color Generator
+Mood Color Generator..
 
 A simple web project that changes background color based on user mood.
 
