@@ -2,11 +2,11 @@ Mood Color Generator..
 
 A simple web project that changes background color based on user mood.
 
-🚀 Features
+🚀 Features.....
 Select mood using buttons
 Background color changes
 Displays a message
-🛠️ Tech Used
+🛠️ Tech Used.....
 HTML
 CSS
 JavaScript
